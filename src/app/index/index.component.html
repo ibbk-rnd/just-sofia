@@ -1,0 +1,258 @@
+<div class="container">
+  <div class="mb-4">
+    <h1>Просто София</h1>
+    <h5><a href="https://download.pomagalo.com/503098/vremeto+e+v+nas+i+nie+sme+vyv+vremeto/?search=14" class="text-body text-decoration-none" target="_blank">Времето е в нас, и ние сме във времето</a></h5>
+  </div>
+
+  <div class="mb-3">
+    <h1>Столичен Общински Съвет</h1>
+
+    <div class="card border-1 border-light mb-4">
+      <div class="card-body bg-light fs-5">
+        <p>Столичният Общински Съвет (СОС) е част от местната <span class="fw-bold">законодателна власт</span>. Той е органът, който взема решения и приема наредби, свързани с управлението на София. Общинският съвет е отговорен за различни аспекти на местното управление, включително бюджет, инфраструктура, образование и социални услуги.</p>
+        <p class="mb-0"><span class="fw-bold">Изпълнителната власт</span> на местно ниво в София е представена от кмета на столицата и администрацията му.</p>
+      </div>
+    </div>
+
+    @if(budget && highlight) {
+      <div class="row">
+        <div class="col-6">
+          <div class="card">
+            <div class="card-body">
+              <h5 class="mb-2">Бюджет на Столична община</h5>
+              <h5 class="mb-2 fw-bold">{{ budget.amount }}</h5>
+              <h6 class="mb-0 text-muted">за {{ budget.year }} г.</h6>
+            </div>
+          </div>
+        </div>
+
+        @for (item of highlight; track item.id) {
+          <div class="col-6">
+            <div class="card mb-3">
+              <div class="card-body">
+                <h6 class="mb-2 text-primary" style="font-size: 1.2em;">Председател на {{ item.commission.name }}</h6>
+                <h5 class="mb-2">{{ item.person.name }} / <span [style]="'color:' + data.config['colors'][item.person.electedBy]">{{ item.person.electedBy }}</span></h5>
+                <h6 class="mb-0">от {{ item.person.value[0]|humanDate }} / {{ item.person.value[0]|dateDiff:true }}</h6>
+              </div>
+            </div>
+          </div>
+        }
+      </div>
+    }
+  </div>
+
+  <h1>Постоянни комисии</h1>
+
+  <div class="card border-1 border-light mb-1">
+    <div class="card-body bg-light fs-5">
+      <p>Постоянните комисии играят основна роля в процеса на вземане на решения от Столичния общински съвет. Те имат задачата да проучват потребностите на населението в съответната област и да правят предложения за решаването на проблемите; да подпомагат Общинския съвет при подготовката на решения по въпроси, внесени за обсъждане и решаване; да осъществяват контрол за изпълнение на решенията на Общинския съвет.</p>
+
+      <div class="text-end">
+        <a href="https://council.sofia.bg/commissions" class="text-decoration-none" target="_blank">източник</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="d-flex justify-content-center">
+    <div style="width: 460px;background-color: rgba(50, 50, 50); font-size: 1em" class="rounded-4 py-3 px-4 text-white mt-3" (click)="onToggleInfo()" role="button">
+      Каква роля играят председателите на комисиите в Столичния общински съвет (СОС) и какво е тяхното значение за изпълнението на политики, реформи и развитието на града?
+    </div>
+  </div>
+
+
+  <div class="text-center mt-4" [@accordionToggle]="toggleInfo ? 'expanded' : 'collapsed'">
+    <img src="/images/isItImportant.png" class="rounded-4" (click)="onToggleInfo()" role="button">
+
+    <div class="container my-5">
+      <div class="border-top border-2 border-bottom py-4">
+        <h2 class="fst-italic"><a href="https://www.youtube.com/watch?v=6Z_fX2xIGZ0&t=628s" target="_blank" class="text-decoration-none link-body-emphasis">И точно това опровергава думите за властелините. Властелините Не дават на заден.</a></h2>
+        <h4>Бойко Методиев Борисов</h4>
+        {{ '2023-10-31'|humanDate }} / {{ '2012-12-23'|dateDiff: true }} до днес
+
+        <hr />
+
+        <h2 class="fst-italic"><a href="https://www.youtube.com/watch?v=5amMzEIRphw&t=473s" target="_blank" class="text-decoration-none link-body-emphasis">Най-добрият начин да си върнем София е, като я загубим</a></h2>
+        <h4>Бойко Методиев Борисов</h4>
+        {{ '2023-10-31'|humanDate }} / {{ '2023-10-31'|dateDiff: true }} до днес
+
+        <hr />
+
+        <div class="mb-3">
+          <h2 class="fst-italic"><a href="https://dariknews.bg/regioni/sofiia/sos-izbra-chlenovete-i-rykovodstvata-na-postoiannite-komisii-2375095" target="_blank" class="text-decoration-none link-body-emphasis">ГЕРБ-СДС, БСП, Синя София, ВМРО, ИТН, и отцепници от Възраждане избраха членовете и ръководствата на постоянните комисии</a></h2>
+          {{ '2024-02-09'|humanDate }} / {{ '2024-02-09'|dateDiff: true }} до днес
+        </div>
+
+        <h2 class="fst-italic"><a href="https://www.segabg.com/hot/category-bulgaria/gerb-i-bsp-okupiraha-klyuchovite-komisii-sos" target="_blank" class="text-decoration-none link-body-emphasis">Бе увеличен броят на членовете на ключовите комисии - на 13, на 15 и 17 души. Така се парира и численият превес на най-голямата група в редовия състав на тези комисии</a></h2>
+        {{ '2024-02-09'|humanDate }} / {{ '2024-02-09'|dateDiff: true }} до днес
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="container-fluid px-5">
+  <div class="mb-3">
+    <div class="border-bottom border-2">
+      <h4 class="">Комисиите във времето</h4>
+    </div>
+
+    <div class="my-3 text-center">
+      <button (click)="showPersonNames(true)" class="btn text-primary me-2">Личности</button>
+      <button (click)="showPersonNames(false)" class="btn text-primary">Политически партии</button>
+      <button (click)="showPersonNames2()" class="btn text-primary">Най-ресурсни комисии</button>
+    </div>
+
+    <div
+      echarts
+      [options]="chart"
+      (chartInit)="onChartInit($event);"
+      (chartClick)="onChartClick($event)"
+      style="height: 58vh">
+    </div>
+  </div>
+
+  @if (content) {
+    <div class="container mb-5">
+      <div class="d-flex justify-content-between mb-1 align-items-end">
+        <h5 class="m-0">
+          <h5>{{ content.name }}</h5>
+          @if(content.from) {
+            <p class="h6">{{ content.from|humanDate }} - {{ content.to ? (content.to|humanDate) : 'днес' }} ({{ humanDateDiff(content.from, content.to) }})</p>
+          } @else if (content.date && content.value === undefined) {
+            <p class="h6">{{ content.date|humanDate }}</p>
+          }
+        </h5>
+        <div class="mb-1"><button (click)="onClose(content.uid)" class="btn m-0 p-0"><i-feather name="x" ></i-feather></button></div>
+      </div>
+      <div class="card">
+        <div class="card-body">
+          <table class="table table-sm mb-0">
+            <tbody>
+              @for (item of content.sources; track item; let  i = $index) {
+                <tr>
+                  <td style="width: 1%">{{ i + 1 }}.</td>
+                  <td>
+                    <a href="{{ item.url[0] }}" target="_blank" class="text-decoration-none">{{ item.name }}</a>
+                    @if(item.url.length > 1) {
+                      <div class="ms-2 d-inline">[
+                        @for (url of item.url; track url; let  i = $index; let last = $last) {
+                          @if(i > 0){
+                            <a href="{{ url }}" target="_blank" class="text-decoration-none">{{ i }}</a>@if(!last) {, }
+                          }
+                        }
+                        ]</div>
+                    }
+                  </td>
+                  <td class="text-end text-nowrap">{{ item.date|humanDate }}</td>
+                </tr>
+              }
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  }
+  @else {
+    <div class="row mb-5">
+      @for (election of upcomingElections; track election) {
+        <div class="col">
+          <div class="card">
+            <div class="card-body">
+              <h5 class="mb-0">{{ election.name }}<br>след ~{{ election.date|dateDiff: true }}</h5>
+              <div class="">около {{ election.date|humanDate }}</div>
+            </div>
+          </div>
+        </div>
+      }
+    </div>
+  }
+
+  <div class="border-bottom border-2">
+    <h4 class="mb-0">Председатели на комисии<a href="https://council.sofia.bg/commissions" target="_blank" class="ms-3"><i-feather name="link" ></i-feather></a></h4>
+    <h5>мандат 2023-2027</h5>
+  </div>
+  <table class="table table-striped table-sm mb-5" style="font-size: 1.05em">
+    <thead>
+      <th colspan="2">Комисия</th>
+      <th>Председател</th>
+      <th>Политическа партия</th>
+      <th>На длъжността от</th>
+      <th class="text-end">Получени заплати<br>от данъкоплатеца</th>
+    </thead>
+    <tbody>
+      @for (row of activeCommissions; track row; let i = $index) {
+        <tr>
+          <td [class]="highlightResourceful && row.meta?.mostResourceful ? 'bg-danger' : ''">{{ i + 1 }}.</td>
+          <td [class]="highlightResourceful && row.meta?.mostResourceful ? 'bg-danger' : ''">{{ row.institution }}</td>
+          <td [class]="highlightResourceful && row.meta?.mostResourceful ? 'bg-danger' : ''">{{ row.person.name }}</td>
+          <td [class]="highlightResourceful && row.meta?.mostResourceful ? 'bg-danger' : ''" [style]="'color:' + data.config['colors'][row.person.electedBy]">{{ row.person.electedBy }}</td>
+          <td [class]="highlightResourceful && row.meta?.mostResourceful ? 'bg-danger' : ''">{{ row.person.value[0]|dateDiff:true }} до днес</td>
+          <td [class]="highlightResourceful && row.meta?.mostResourceful ? 'bg-danger text-end' : 'text-end'">{{ row.person.value[0]|salary }} заплати</td>
+        </tr>
+      }
+    </tbody>
+  </table>
+
+  <div class="mb-5">
+    <div class="border-bottom border-2">
+      <h2>Време в комисиите</h2>
+    </div>
+
+    <div class="container-fluid px-0 mt-4">
+      <div echarts [options]="chart2" style="height: 65vh"></div>
+    </div>
+  </div>
+
+  <div class="container mb-5">
+    <h1>Общински съветници<a href="https://council.sofia.bg/councilors2023-2027" target="_blank" class="ms-3"><i-feather name="link" ></i-feather></a></h1>
+
+    <div class="card border-1 border-light mb-4">
+      <div class="card-body bg-light fs-5">
+        <p>За да бъдат приети решения в СОС, е необходимо <span class="fw-bold">мнозинство от 31 гласа</span>, тъй като съветът се състои от <span class="fw-bold">61</span> общински съветници. Важно е да се отбележи, че за определени решения, като изменения в бюджета или важни стратегически решения, може да се изисква квалифицирано мнозинство.</p>
+      </div>
+    </div>
+
+    <div class="mb-4 border-bottom border-2">
+      <h4>Личности, които със свойте дела определят как София ще изглежда утре</h4>
+      <div class="h5">Общински съветници мандат 2023 - 2027 г. (<a href="https://results.cik.bg/mi2023/tur1/aktivnost/2246.html" target="_blank" class="text-decoration-none">36% избирателна активонст местните избори октомври 2023</a>)</div>
+      <div class="h5"></div>
+    </div>
+
+    <table class="table table-striped table-sm">
+      <thead>
+      <th colspan="2">Име</th>
+      <th>Политическа партия</th>
+      <th class="text-end">Получени заплати от данъкоплатеца<br>(общо до момента)</th>
+      </thead>
+      <tbody>
+        @for (row of mostSalaries; track row; let i = $index) {
+          <tr>
+            <td>{{ i + 1 }}.</td>
+            <td>{{ row.name }}</td>
+            <td>{{ row.party }}</td>
+            <td class="text-end">{{ row.salaries }} заплати</td>
+          </tr>
+        }
+      </tbody>
+    </table>
+  </div>
+
+  <div class="mb-4 border-bottom border-2">
+    <h4>Личности, които със свойте дела са допринесли София да е такава каквато е днес</h4>
+  </div>
+
+  <div
+    echarts
+    [options]="chart3"
+    (chartDataZoom)="onDataZoom($event)"
+    (chartInit)="onChartInit4($event)"
+    style="height: 90vh"
+  ></div>
+
+  <div class=" text-muted  text-center mt-4">
+    <p class="mb-0">Възможни са неточности в данните, имената, ролите и датите. Ако забележите такива, моля, прочетете <a routerLink="/about" queryParamsHandling="preserve" class="text-decoration-none">тук</a>.</p>
+    <p class="mb-0">Представената информация не е изчерпателна. Ако забележите пропуски и желаете да допринесете моля, прочетете <a routerLink="/about" queryParamsHandling="preserve" class="text-decoration-none">тук</a>.</p>
+    <p>Бройката на получените заплати е приблизителна и е изчислена на базата на броя месеци за целия период на служене.</p>
+  </div>
+</div>
+
+

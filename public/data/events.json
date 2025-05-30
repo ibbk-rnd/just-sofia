@@ -1,0 +1,169 @@
+[
+  {
+    "id": "events",
+    "meta": {
+      "style": {
+        "lineStyle": {
+          "color": "#0000FF",
+          "type": "solid",
+          "width": 2
+        }
+      }
+    },
+    "items": [
+      {
+        "name": "Бойко Борисов е ядосан на тройната коалиция за това, че са сменили управителите на общинските фирми, когато той е бил кмет.",
+        "date": "2007-10-25",
+        "sources": [
+          {
+            "name": "Бойко Борисов в \"Шоуто на Слави\" 2007 година",
+            "url": ["https://www.youtube.com/watch?v=LTuahqZQlts&t=861s"],
+            "date": "2007-10-25"
+          }
+        ]
+      },
+      {
+        "name": "ГЕРБ-СДС, БСП, Синя София, ВМРО, ИТН, отцепници от Възраждане избраха членовете и ръководствата на постоянните комисии",
+        "date": "2024-02-09",
+        "sources": [
+          {
+            "name": "СОС избра членовете и ръководствата на постоянните комисии",
+            "url": ["https://dariknews.bg/regioni/sofiia/sos-izbra-chlenovete-i-rykovodstvata-na-postoiannite-komisii-2375095"],
+            "date": "2024-02-09"
+          },
+          {
+            "name": "СОС избра заместник-председатели и състави на постоянните комисии",
+            "url": ["https://dariknews.bg/regioni/sofiia/sos-izbra-zamestnik-predsedateli-i-systavi-na-postoiannite-komisii-2376209"],
+            "date": "2024-02-09"
+          },
+          {
+            "name": "\"Гледайте как се прави\": ГЕРБ си върнаха контрола в Столичния общински съвет с ново мнозинство",
+            "url": ["https://www.capital.bg/politika_i_ikonomika/gradove/2024/02/08/4586165_gledaite_kak_se_pravi_gerb_si_vurnaha_kontrola_v/"],
+            "date": "2024-02-09"
+          },
+          {
+            "name": "ГЕРБ и БСП окупираха ключовите комисии в СОС",
+            "url": ["https://www.segabg.com/hot/category-bulgaria/gerb-i-bsp-okupiraha-klyuchovite-komisii-sos"],
+            "date": "2024-02-09"
+          }
+        ]
+      },
+      {
+        "name": "СОС сменя ръководствата на 6 общински дружества",
+        "date": "2024-07-11",
+        "sources": [
+          {
+            "name": "16. Доклад вх. № СОА24-ВК66-5953/09.07.2024 г. относно обявяване на публичен избор на членове на Съвет на директори и надзорни съвети на общинските търговски дружества „Център за градска мобилност\" ЕАД, „Столичен електротранспорт“ ЕАД, „Столичен автотранспорт“ ЕАД, „Метрополитен“ ЕАД, „Топлофикация София“ ЕАД и „Софинвест“ ЕАД; Докл. Карлос Контрера, Севделина Петрова, Красимир Гълъбов",
+            "url": ["https://council.sofia.bg/documents/d/guest/soa24-vk66-5953-kontrera-petrova-g-l-bov"],
+            "date": "2024-07-09"
+          },
+          {
+            "name": "ПРОТОКОЛ № 15 от 15 заседание на Столичен общински съвет, проведено на 11.07.2024 г.",
+            "url": ["https://council.sofia.bg/documents/d/guest/protokol-15"],
+            "date": "2024-07-11"
+          },
+          {
+            "name": "СОС смени ръководствата на 6 общински дружества с 31 гласа \"за\" и 29 \"против\"",
+            "url": ["https://dnes.dir.bg/politika/sos-smeni-rakovodstvata-na-6-obshtinski-druzhestva-s-31-glasa-za-i-29-protiv"],
+            "date": "2024-07-11"
+          },
+          {
+            "name": "СОС сменя ръководствата на 6 общински дружества?",
+            "url": ["https://bntnews.bg/news/sos-smenya-rakovodstvata-na-6-obshtinski-druzhestva-1285173news.html"],
+            "date": "2024-07-11"
+          },
+          {
+            "name": "След дълги дебати: СОС смени временно ръководствата на 6-те общински дружества",
+            "url": ["https://bntnews.bg/news/sled-dalgi-debati-sos-smeni-vremenno-rakovodstvata-na-6-te-obshtinski-druzhestva-1285218news.html"],
+            "date": "2024-07-11"
+          },
+          {
+            "name": "Превратът в София успя. СОС смени шефовете на 6 общински дружества",
+            "url": ["https://offnews.bg/obshtestvo/prevratat-v-sofia-uspia-sos-smeni-shefovete-na-6-obshtinski-druzhestv-826225.html"],
+            "date": "2024-07-11"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "upcoming-elections",
+    "items": [
+      {
+        "name": "Президентски избори 2026",
+        "date": "2026-11-14",
+        "meta": {
+          "style": {
+            "lineStyle": {
+              "color": "#000",
+              "type": "solid",
+              "width": 2
+            }
+          }
+        },
+        "sources": [
+          {
+            "name": "Президентски избори 2021",
+            "url": ["https://results.cik.bg/pvrns2021/tur2/rezultati/index.html"]
+          },
+          {
+            "name": "Президент на България",
+            "url": [
+              "https://bg.wikipedia.org/wiki/%D0%9F%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82_%D0%BD%D0%B0_%D0%91%D1%8A%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D1%8F"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Местни избори 2027",
+        "date": "2027-10-29",
+        "meta": {
+          "style": {
+            "lineStyle": {
+              "color": "#000",
+              "type": "solid",
+              "width": 1
+            }
+          }
+        },
+        "sources": [
+          {
+            "name": "Местни избори 29 октомври 2023",
+            "url": ["https://results.cik.bg/mi2023/tur2/rezultati/0101.html"]
+          },
+          {
+            "name": "Местни избори в България",
+            "url": [
+              "https://bg.wikipedia.org/wiki/%D0%9C%D0%B5%D1%81%D1%82%D0%BD%D0%B8_%D0%B8%D0%B7%D0%B1%D0%BE%D1%80%D0%B8_%D0%B2_%D0%91%D1%8A%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D1%8F"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Парламентарни избори 2028",
+        "date": "2028-10-27",
+        "meta": {
+          "style": {
+            "lineStyle": {
+              "color": "#000",
+              "type": "solid",
+              "width": 1
+            }
+          }
+        },
+        "sources": [
+          {
+            "name": "Местни избори 29 октомври 2023",
+            "url": ["https://results.cik.bg/mi2023/tur2/rezultati/0101.html"]
+          },
+          {
+            "name": "Местни избори в България",
+            "url": [
+              "https://bg.wikipedia.org/wiki/%D0%9C%D0%B5%D1%81%D1%82%D0%BD%D0%B8_%D0%B8%D0%B7%D0%B1%D0%BE%D1%80%D0%B8_%D0%B2_%D0%91%D1%8A%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D1%8F"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

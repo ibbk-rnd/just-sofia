@@ -1,0 +1,1231 @@
+[
+  {
+    "name": "Кмет на София",
+    "type": "mayor",
+    "items": [
+      {
+        "name": "Александър Каракачанов",
+        "electedBy": "СДС",
+        "value": ["1990-10-17", "1991-10-20"],
+        "sources": [
+          {
+            "name": "Кметове на София",
+            "url": [
+              "https://bg.wikipedia.org/wiki/%D0%9A%D0%BC%D0%B5%D1%82%D0%BE%D0%B2%D0%B5_%D0%BD%D0%B0_%D0%A1%D0%BE%D1%84%D0%B8%D1%8F",
+              "https://www.sofia.bg/web/tourism-in-sofia/mayors-of-sofia-municipality"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Александър Янчулев",
+        "electedBy": "СДС",
+        "value": ["1991-10-21", "1995-11-16"],
+        "sources": [
+          {
+            "name": "Кметове на София",
+            "url": [
+              "https://bg.wikipedia.org/wiki/%D0%9A%D0%BC%D0%B5%D1%82%D0%BE%D0%B2%D0%B5_%D0%BD%D0%B0_%D0%A1%D0%BE%D1%84%D0%B8%D1%8F",
+              "https://www.sofia.bg/web/tourism-in-sofia/mayors-of-sofia-municipality"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Стефан Софиянски",
+        "electedBy": "СДС",
+        "value": ["1995-11-19", "1999-11-16"],
+        "sources": [
+          {
+            "name": "Кметове на София",
+            "url": [
+              "https://bg.wikipedia.org/wiki/%D0%9A%D0%BC%D0%B5%D1%82%D0%BE%D0%B2%D0%B5_%D0%BD%D0%B0_%D0%A1%D0%BE%D1%84%D0%B8%D1%8F",
+              "https://www.sofia.bg/web/tourism-in-sofia/mayors-of-sofia-municipality"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Стефан Софиянски",
+        "electedBy": "СДС",
+        "value": ["1999-11-16", "2004-11-19"],
+        "sources": [
+          {
+            "name": "Кметове на София",
+            "url": [
+              "https://bg.wikipedia.org/wiki/%D0%9A%D0%BC%D0%B5%D1%82%D0%BE%D0%B2%D0%B5_%D0%BD%D0%B0_%D0%A1%D0%BE%D1%84%D0%B8%D1%8F",
+              "https://www.sofia.bg/web/tourism-in-sofia/mayors-of-sofia-municipality"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Стефан Софиянски",
+        "electedBy": "СДС",
+        "value": ["2004-11-19", "2005-06-29"],
+        "sources": [
+          {
+            "name": "Кметове на София",
+            "url": [
+              "https://bg.wikipedia.org/wiki/%D0%9A%D0%BC%D0%B5%D1%82%D0%BE%D0%B2%D0%B5_%D0%BD%D0%B0_%D0%A1%D0%BE%D1%84%D0%B8%D1%8F",
+              "https://www.sofia.bg/web/tourism-in-sofia/mayors-of-sofia-municipality"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Бойко Борисов",
+        "electedBy": "независим",
+        "value": ["2005-10-29", "2007-10-28"],
+        "sources": [
+          {
+            "name": "Кметове на София",
+            "url": [
+              "https://bg.wikipedia.org/wiki/%D0%91%D0%BE%D0%B9%D0%BA%D0%BE_%D0%91%D0%BE%D1%80%D0%B8%D1%81%D0%BE%D0%B2",
+              "https://www.sofia.bg/web/tourism-in-sofia/mayors-of-sofia-municipality"
+            ]
+          },
+          {
+            "name": "Частични избори за кметове на общини и кметове на кметства 29 октомври 2005 г.",
+            "url": ["https://results.cik.bg/chmi2004-2006/2005-10-29/tur1/2246-93/index.html"]
+          }
+        ]
+      },
+      {
+        "name": "Бойко Борисов",
+        "electedBy": "ГЕРБ",
+        "value": ["2007-10-28", "2009-11-15"],
+        "sources": [
+          {
+            "name": "28 октомври 2007 Местни избори",
+            "url": ["https://mi2007.cik.bg/results1/22/index.html"]
+          },
+          {
+            "name": "Кметове на София",
+            "url": [
+              "https://bg.wikipedia.org/wiki/%D0%91%D0%BE%D0%B9%D0%BA%D0%BE_%D0%91%D0%BE%D1%80%D0%B8%D1%81%D0%BE%D0%B2",
+              "https://www.sofia.bg/web/tourism-in-sofia/mayors-of-sofia-municipality"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Йорданка Фандъкова",
+        "electedBy": "ГЕРБ",
+        "value": ["2009-11-15", "2011-10-23"],
+        "sources": [
+          {
+            "name": "Частични избори за кмет на община и кмет на район 15 ноември 2009",
+            "url": ["https://results.cik.bg/chmi2008-2010/2009-11-15_chastichen/index.html"]
+          },
+          {
+            "name": "Кметове на София",
+            "url": [
+              "https://bg.wikipedia.org/wiki/%D0%9A%D0%BC%D0%B5%D1%82%D0%BE%D0%B2%D0%B5_%D0%BD%D0%B0_%D0%A1%D0%BE%D1%84%D0%B8%D1%8F",
+              "https://www.sofia.bg/web/tourism-in-sofia/mayors-of-sofia-municipality"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Йорданка Фандъкова",
+        "electedBy": "ГЕРБ",
+        "value": ["2011-10-23", "2015-10-25"],
+        "sources": [
+          {
+            "name": "23 октомври 2011 Избори за кметове и общински съветници",
+            "url": ["https://results.cik.bg/mipvr2011/tur1/mestni/2246.html"]
+          },
+          {
+            "name": "Кметове на София",
+            "url": [
+              "https://bg.wikipedia.org/wiki/%D0%9A%D0%BC%D0%B5%D1%82%D0%BE%D0%B2%D0%B5_%D0%BD%D0%B0_%D0%A1%D0%BE%D1%84%D0%B8%D1%8F",
+              "https://www.sofia.bg/web/tourism-in-sofia/mayors-of-sofia-municipality"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Йорданка Фандъкова",
+        "electedBy": "ГЕРБ",
+        "value": ["2015-10-25", "2019-10-27"],
+        "sources": [
+          {
+            "name": "25 октомври 2015 Местни избори и национален референдум",
+            "url": ["https://results.cik.bg/minr2015/tur1/mestni/2246.html"]
+          },
+          {
+            "name": "Кметове на София",
+            "url": [
+              "https://bg.wikipedia.org/wiki/%D0%9A%D0%BC%D0%B5%D1%82%D0%BE%D0%B2%D0%B5_%D0%BD%D0%B0_%D0%A1%D0%BE%D1%84%D0%B8%D1%8F",
+              "https://www.sofia.bg/web/tourism-in-sofia/mayors-of-sofia-municipality"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Йорданка Фандъкова",
+        "electedBy": "ГЕРБ",
+        "value": ["2019-10-27", "2023-10-29"],
+        "sources": [
+          {
+            "name": "27 октомври 2019 Избори за общински съветници и за кметове",
+            "url": [
+              "https://bg.wikipedia.org/wiki/%D0%9A%D0%BC%D0%B5%D1%82%D0%BE%D0%B2%D0%B5_%D0%BD%D0%B0_%D0%A1%D0%BE%D1%84%D0%B8%D1%8F",
+              "https://www.sofia.bg/web/tourism-in-sofia/mayors-of-sofia-municipality"
+            ]
+          },
+          {
+            "name": "Кметове на София",
+            "url": [
+              "https://bg.wikipedia.org/wiki/%D0%9A%D0%BC%D0%B5%D1%82%D0%BE%D0%B2%D0%B5_%D0%BD%D0%B0_%D0%A1%D0%BE%D1%84%D0%B8%D1%8F",
+              "https://www.sofia.bg/web/tourism-in-sofia/mayors-of-sofia-municipality"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Васил Терзиев",
+        "electedBy": "ПП–ДБ (Спаси София)",
+        "value": ["2023-10-29", null],
+        "sources": [
+          {
+            "name": "29 октомври 2023 Избори за общински съветници и за кметове",
+            "url": ["https://results.cik.bg/mi2023/tur2/rezultati/2246.html"]
+          },
+          {
+            "name": "Кметове на София",
+            "url": [
+              "https://bg.wikipedia.org/wiki/%D0%9A%D0%BC%D0%B5%D1%82%D0%BE%D0%B2%D0%B5_%D0%BD%D0%B0_%D0%A1%D0%BE%D1%84%D0%B8%D1%8F",
+              "https://www.sofia.bg/web/tourism-in-sofia/mayors-of-sofia-municipality"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Председател на столичен общински съвет",
+    "type": "chairmanSofiaMunicipalCouncil",
+    "items": [
+      {
+        "name": "Елен Стойчев Герджиков",
+        "electedBy": "ГЕРБ",
+        "value": ["2011-10-23", "2015-10-25"],
+        "sources": [
+          {
+            "name": "Столичен общински съвет – общински съветници Мандат 2011 - 2015 г.",
+            "url": [
+              "https://council.sofia.bg/documents/20182/21367/%D0%9E%D0%B1%D1%89%D0%B8%D0%BD%D1%81%D0%BA%D0%B8+%D1%81%D1%8A%D0%B2%D0%B5%D1%82%D0%BD%D0%B8%D1%86%D0%B8+%D0%9C%D0%B0%D0%BD%D0%B4%D0%B0%D1%82+2011+%E2%80%93+2015+%D0%B3/7ca7a8f5-d45f-4f0d-a710-10ccd6721c3c"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Елен Стойчев Герджиков",
+        "electedBy": "ГЕРБ",
+        "value": ["2015-10-25", "2019-10-27"],
+        "sources": [
+          {
+            "name": "Общински съветници 2015-2019",
+            "url": ["https://web.archive.org/web/20250123042848/https://council.sofia.bg/councilors"]
+          }
+        ]
+      },
+      {
+        "name": "Георги Валентинов Георгиев",
+        "electedBy": "ГЕРБ",
+        "value": ["2019-10-27", "2023-10-29"],
+        "sources": [
+          {
+            "name": "Кметове на София",
+            "url": [
+              "https://bg.wikipedia.org/wiki/%D0%9A%D0%BC%D0%B5%D1%82%D0%BE%D0%B2%D0%B5_%D0%BD%D0%B0_%D0%A1%D0%BE%D1%84%D0%B8%D1%8F",
+              "https://www.sofia.bg/web/tourism-in-sofia/mayors-of-sofia-municipality"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Цветомир Илиев Петров",
+        "electedBy": "ПП–ДБ (Спаси София)",
+        "value": ["2024-02-08", null],
+        "sources": [
+          {
+            "name": "ПРЕДСЕДАТЕЛ НА СТОЛИЧНИЯ ОБЩИНСКИ СЪВЕТ",
+            "url": [
+              "https://web.archive.org/web/20250516184902/https://council.sofia.bg/management",
+              "https://www.actualno.com/sofia/izbraha-cvetomir-petrov-za-predsedatel-na-stolichnija-obshtinski-syvet-snimki-i-video-news_2154898.html"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Комисия по устройство на територията, архитектура и жилищна политика",
+    "meta": {
+      "mostResourceful": true
+    },
+    "type": "commission",
+    "items": [
+      {
+        "name": "Орлин Вилхелм Иванов",
+        "role": "председател",
+        "electedBy": "ГЕРБ",
+        "value": ["2011-10-23", "2015-10-25"],
+        "sources": [
+          {
+            "name": "Постоянна комисия по устройство на територията, архитектура и жилищна политика",
+            "url": ["https://web.archive.org/web/20150427202345/http://sofiacouncil.bg/index.php?page=perm_committees&id=112"]
+          },
+          {
+            "name": "Столичен общински съвет – общински съветници Мандат 2011 - 2015 г.",
+            "url": [
+              "https://council.sofia.bg/documents/20182/21367/%D0%9E%D0%B1%D1%89%D0%B8%D0%BD%D1%81%D0%BA%D0%B8+%D1%81%D1%8A%D0%B2%D0%B5%D1%82%D0%BD%D0%B8%D1%86%D0%B8+%D0%9C%D0%B0%D0%BD%D0%B4%D0%B0%D1%82+2011+%E2%80%93+2015+%D0%B3/7ca7a8f5-d45f-4f0d-a710-10ccd6721c3c"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Силвия Тошкова Христова",
+        "role": "председател",
+        "electedBy": "ГЕРБ",
+        "value": ["2015-10-25", "2019-10-27"],
+        "sources": [
+          {
+            "name": "Постоянна комисия по устройство на територията, архитектура, достъпна среда и жилищна политика",
+            "url": ["https://web.archive.org/web/20170127182450/http://sofiacouncil.bg/index.php?page=perm_committees&id=112"]
+          },
+          {
+            "name": "Общински съветници 2015-2019",
+            "url": ["https://council.sofia.bg/councilors"]
+          }
+        ]
+      },
+      {
+        "name": "Силвия Христова",
+        "role": "председател",
+        "electedBy": "ГЕРБ",
+        "value": ["2019-10-27", "2023-10-29"],
+        "sources": [
+          {
+            "name": "Шефката на архитектурната комисия от ГЕРБ напуска СОС",
+            "url": ["https://offnews.bg/obshtestvo/shefkata-na-arhitekturnata-komisia-ot-gerb-napuska-sos-757953.html"]
+          },
+          {
+            "name": "ПОСТОЯННИ КОМИСИИ НА СТОЛИЧНИЯ ОБЩИНСКИ СЪВЕТ",
+            "url": ["https://web.archive.org/web/20200129192218/https://council.sofia.bg/en/commissions"]
+          }
+        ]
+      },
+      {
+        "name": "Севделина Петрова",
+        "role": "председател",
+        "electedBy": "независим /бивш Възраждане/",
+        "value": ["2024-02-09", null],
+        "sources": [
+          {
+            "name": "СОС избра членовете и ръководствата на постоянните комисии",
+            "url": [
+              "https://nova.bg/news/view/2024/02/09/444214/%D1%81%D0%BE%D1%81-%D0%B8%D0%B7%D0%B1%D1%80%D0%B0-%D1%87%D0%BB%D0%B5%D0%BD%D0%BE%D0%B2%D0%B5%D1%82%D0%B5-%D0%B8-%D1%80%D1%8A%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%B0%D1%82%D0%B0-%D0%BD%D0%B0-%D0%BF%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%BD%D0%B8%D1%82%D0%B5-%D0%BA%D0%BE%D0%BC%D0%B8%D1%81%D0%B8%D0%B8/"
+            ]
+          },
+          {
+            "name": "ПОСТОЯННИ КОМИСИИ НА СТОЛИЧНИЯ ОБЩИНСКИ СЪВЕТ",
+            "url": ["https://web.archive.org/web/20250321100408/https://council.sofia.bg/commissions"]
+          },
+          {
+            "name": "СОС избра заместник-председатели и състави на постоянните комисии",
+            "url": "https://dariknews.bg/regioni/sofiia/sos-izbra-zamestnik-predsedateli-i-systavi-na-postoiannite-komisii-2376209"
+          },
+          {
+            "name": "Изключените от Възраждане в СОС повече от титулярите",
+            "url": "https://stolica.bg/mestna-politika/izklyuchenite-ot-vazrazhdane-v-sos-poveche-ot-titulyarite",
+            "date": "2024-02-08"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Комисия по финанси и бюджет",
+    "meta": {
+      "mostResourceful": true
+    },
+    "type": "commission",
+    "items": [
+      {
+        "name": "Орлин Иванов Алексиев",
+        "role": "председател",
+        "electedBy": "ГЕРБ",
+        "value": ["2011-10-23", "2015-10-25"],
+        "sources": [
+          {
+            "name": "Постоянна комисия по финанси и бюджет",
+            "url": ["https://web.archive.org/web/20150428004952/http://sofiacouncil.bg/index.php?page=perm_committees&id=37"]
+          },
+          {
+            "name": "Столичен общински съвет – общински съветници Мандат 2011 - 2015 г.",
+            "url": [
+              "https://council.sofia.bg/documents/20182/21367/%D0%9E%D0%B1%D1%89%D0%B8%D0%BD%D1%81%D0%BA%D0%B8+%D1%81%D1%8A%D0%B2%D0%B5%D1%82%D0%BD%D0%B8%D1%86%D0%B8+%D0%9C%D0%B0%D0%BD%D0%B4%D0%B0%D1%82+2011+%E2%80%93+2015+%D0%B3/7ca7a8f5-d45f-4f0d-a710-10ccd6721c3c"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Орлин Иванов Алексиев",
+        "role": "председател",
+        "electedBy": "ГЕРБ",
+        "value": ["2015-10-25", "2019-10-27"],
+        "sources": [
+          {
+            "name": "Общински съветници 2015-2019",
+            "url": ["https://council.sofia.bg/councilors"]
+          }
+        ]
+      },
+      {
+        "name": "Димитър Бойков Вучев",
+        "role": "председател",
+        "electedBy": "ГЕРБ",
+        "value": ["2019-10-27", "2023-10-29"],
+        "sources": [
+          {
+            "name": "СОС избра членовете и ръководствата на постоянните комисии",
+            "url": [
+              "https://nova.bg/news/view/2024/02/09/444214/%D1%81%D0%BE%D1%81-%D0%B8%D0%B7%D0%B1%D1%80%D0%B0-%D1%87%D0%BB%D0%B5%D0%BD%D0%BE%D0%B2%D0%B5%D1%82%D0%B5-%D0%B8-%D1%80%D1%8A%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%B0%D1%82%D0%B0-%D0%BD%D0%B0-%D0%BF%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%BD%D0%B8%D1%82%D0%B5-%D0%BA%D0%BE%D0%BC%D0%B8%D1%81%D0%B8%D0%B8/"
+            ]
+          },
+          {
+            "name": "ПОСТОЯННИ КОМИСИИ НА СТОЛИЧНИЯ ОБЩИНСКИ СЪВЕТ",
+            "url": ["https://web.archive.org/web/20250321100408/https://council.sofia.bg/commissions"]
+          }
+        ]
+      },
+      {
+        "name": "Димитър Бойков Вучев",
+        "role": "председател",
+        "electedBy": "ГЕРБ",
+        "value": ["2024-02-09", null],
+        "sources": [
+          {
+            "name": "СОС избра членовете и ръководствата на постоянните комисии",
+            "url": [
+              "https://nova.bg/news/view/2024/02/09/444214/%D1%81%D0%BE%D1%81-%D0%B8%D0%B7%D0%B1%D1%80%D0%B0-%D1%87%D0%BB%D0%B5%D0%BD%D0%BE%D0%B2%D0%B5%D1%82%D0%B5-%D0%B8-%D1%80%D1%8A%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%B0%D1%82%D0%B0-%D0%BD%D0%B0-%D0%BF%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%BD%D0%B8%D1%82%D0%B5-%D0%BA%D0%BE%D0%BC%D0%B8%D1%81%D0%B8%D0%B8/"
+            ]
+          },
+          {
+            "name": "ПОСТОЯННИ КОМИСИИ НА СТОЛИЧНИЯ ОБЩИНСКИ СЪВЕТ",
+            "url": ["https://web.archive.org/web/20250321100408/https://council.sofia.bg/commissions"]
+          },
+          {
+            "name": "СОС избра заместник-председатели и състави на постоянните комисии",
+            "url": "https://dariknews.bg/regioni/sofiia/sos-izbra-zamestnik-predsedateli-i-systavi-na-postoiannite-komisii-2376209"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Комисия по здравеопазване и социална политика",
+    "meta": {
+      "mostResourceful": true
+    },
+    "type": "commission",
+    "items": [
+      {
+        "name": "Лилянда Тодорова Еленкова",
+        "role": "председател",
+        "electedBy": "ГЕРБ",
+        "value": ["2011-10-23", "2015-10-25"],
+        "sources": [
+          {
+            "name": "Постоянна комисия по здравеопазване и социална политика",
+            "url": ["https://web.archive.org/web/20150428004936/http://sofiacouncil.bg/index.php?page=perm_committees&id=38"]
+          },
+          {
+            "name": "Столичен общински съвет – общински съветници Мандат 2011 - 2015 г.",
+            "url": [
+              "https://council.sofia.bg/documents/20182/21367/%D0%9E%D0%B1%D1%89%D0%B8%D0%BD%D1%81%D0%BA%D0%B8+%D1%81%D1%8A%D0%B2%D0%B5%D1%82%D0%BD%D0%B8%D1%86%D0%B8+%D0%9C%D0%B0%D0%BD%D0%B4%D0%B0%D1%82+2011+%E2%80%93+2015+%D0%B3/7ca7a8f5-d45f-4f0d-a710-10ccd6721c3c"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Антон Господинов Койче",
+        "role": "председател",
+        "electedBy": "ГЕРБ",
+        "value": ["2019-10-27", "2023-10-29"],
+        "sources": [
+          {
+            "name": "СОС избра членовете и ръководствата на постоянните комисии",
+            "url": [
+              "https://nova.bg/news/view/2024/02/09/444214/%D1%81%D0%BE%D1%81-%D0%B8%D0%B7%D0%B1%D1%80%D0%B0-%D1%87%D0%BB%D0%B5%D0%BD%D0%BE%D0%B2%D0%B5%D1%82%D0%B5-%D0%B8-%D1%80%D1%8A%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%B0%D1%82%D0%B0-%D0%BD%D0%B0-%D0%BF%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%BD%D0%B8%D1%82%D0%B5-%D0%BA%D0%BE%D0%BC%D0%B8%D1%81%D0%B8%D0%B8/"
+            ]
+          },
+          {
+            "name": "ПОСТОЯННИ КОМИСИИ НА СТОЛИЧНИЯ ОБЩИНСКИ СЪВЕТ",
+            "url": ["https://web.archive.org/web/20250321100408/https://council.sofia.bg/commissions"]
+          }
+        ]
+      },
+      {
+        "name": "Ваня Руменова Григорова",
+        "role": "председател",
+        "electedBy": "БСП за България",
+        "value": ["2024-02-09", null],
+        "sources": [
+          {
+            "name": "СОС избра членовете и ръководствата на постоянните комисии",
+            "url": [
+              "https://nova.bg/news/view/2024/02/09/444214/%D1%81%D0%BE%D1%81-%D0%B8%D0%B7%D0%B1%D1%80%D0%B0-%D1%87%D0%BB%D0%B5%D0%BD%D0%BE%D0%B2%D0%B5%D1%82%D0%B5-%D0%B8-%D1%80%D1%8A%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%B0%D1%82%D0%B0-%D0%BD%D0%B0-%D0%BF%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%BD%D0%B8%D1%82%D0%B5-%D0%BA%D0%BE%D0%BC%D0%B8%D1%81%D0%B8%D0%B8/"
+            ]
+          },
+          {
+            "name": "ПОСТОЯННИ КОМИСИИ НА СТОЛИЧНИЯ ОБЩИНСКИ СЪВЕТ",
+            "url": ["https://web.archive.org/web/20250321100408/https://council.sofia.bg/commissions"]
+          },
+          {
+            "name": "СОС избра заместник-председатели и състави на постоянните комисии",
+            "url": "https://dariknews.bg/regioni/sofiia/sos-izbra-zamestnik-predsedateli-i-systavi-na-postoiannite-komisii-2376209"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Комисия по опазване на околната среда, земеделие и гори",
+    "type": "commission",
+    "items": [
+      {
+        "name": "Лорита Георгиева Радева",
+        "role": "председател",
+        "electedBy": "ГЕРБ",
+        "value": ["2011-10-23", "2015-10-25"],
+        "sources": [
+          {
+            "name": "Постоянна комисия за децата, младежта, спорта и туризма",
+            "url": ["https://web.archive.org/web/20150427181254/http://sofiacouncil.bg/index.php?page=perm_committees&id=39"]
+          },
+          {
+            "name": "Столичен общински съвет – общински съветници Мандат 2011 - 2015 г.",
+            "url": [
+              "https://council.sofia.bg/documents/20182/21367/%D0%9E%D0%B1%D1%89%D0%B8%D0%BD%D1%81%D0%BA%D0%B8+%D1%81%D1%8A%D0%B2%D0%B5%D1%82%D0%BD%D0%B8%D1%86%D0%B8+%D0%9C%D0%B0%D0%BD%D0%B4%D0%B0%D1%82+2011+%E2%80%93+2015+%D0%B3/7ca7a8f5-d45f-4f0d-a710-10ccd6721c3c"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Лорита Георгиева Радева",
+        "role": "председател",
+        "electedBy": "ГЕРБ",
+        "value": ["2015-10-25", "2019-10-27"],
+        "sources": [
+          {
+            "name": "Постоянна комисия по опазване на околната среда, земеделие и гори",
+            "url": ["https://web.archive.org/web/20151127083720/http://www.sofiacouncil.bg/index.php?page=perm_committees&id=39"]
+          },
+          {
+            "name": "Общински съветници 2015-2019",
+            "url": ["https://council.sofia.bg/councilors"]
+          }
+        ]
+      },
+      {
+        "name": "Лорита Георгиева Радева",
+        "role": "председател",
+        "electedBy": "ГЕРБ",
+        "value": ["2019-10-27", "2023-10-29"],
+        "sources": [
+          {
+            "name": "СОС избра членовете и ръководствата на постоянните комисии",
+            "url": [
+              "https://nova.bg/news/view/2024/02/09/444214/%D1%81%D0%BE%D1%81-%D0%B8%D0%B7%D0%B1%D1%80%D0%B0-%D1%87%D0%BB%D0%B5%D0%BD%D0%BE%D0%B2%D0%B5%D1%82%D0%B5-%D0%B8-%D1%80%D1%8A%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%B0%D1%82%D0%B0-%D0%BD%D0%B0-%D0%BF%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%BD%D0%B8%D1%82%D0%B5-%D0%BA%D0%BE%D0%BC%D0%B8%D1%81%D0%B8%D0%B8/"
+            ]
+          },
+          {
+            "name": "ПОСТОЯННИ КОМИСИИ НА СТОЛИЧНИЯ ОБЩИНСКИ СЪВЕТ",
+            "url": ["https://web.archive.org/web/20250321100408/https://council.sofia.bg/commissions"]
+          }
+        ]
+      },
+      {
+        "name": "Красимир Рангелов Гълъбов",
+        "role": "председател",
+        "electedBy": "независим /бивш Възраждане/",
+        "value": ["2024-02-09", null],
+        "sources": [
+          {
+            "name": "СОС избра членовете и ръководствата на постоянните комисии",
+            "url": [
+              "https://nova.bg/news/view/2024/02/09/444214/%D1%81%D0%BE%D1%81-%D0%B8%D0%B7%D0%B1%D1%80%D0%B0-%D1%87%D0%BB%D0%B5%D0%BD%D0%BE%D0%B2%D0%B5%D1%82%D0%B5-%D0%B8-%D1%80%D1%8A%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%B0%D1%82%D0%B0-%D0%BD%D0%B0-%D0%BF%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%BD%D0%B8%D1%82%D0%B5-%D0%BA%D0%BE%D0%BC%D0%B8%D1%81%D0%B8%D0%B8/"
+            ]
+          },
+          {
+            "name": "ПОСТОЯННИ КОМИСИИ НА СТОЛИЧНИЯ ОБЩИНСКИ СЪВЕТ",
+            "url": ["https://web.archive.org/web/20250321100408/https://council.sofia.bg/commissions"]
+          },
+          {
+            "name": "СОС избра заместник-председатели и състави на постоянните комисии",
+            "url": "https://dariknews.bg/regioni/sofiia/sos-izbra-zamestnik-predsedateli-i-systavi-na-postoiannite-komisii-2376209"
+          },
+          {
+            "name": "Изключените от Възраждане в СОС повече от титулярите",
+            "url": "https://stolica.bg/mestna-politika/izklyuchenite-ot-vazrazhdane-v-sos-poveche-ot-titulyarite",
+            "date": "2024-02-08"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Комисия по местно самоуправление и нормативна уредба",
+    "type": "commission",
+    "items": [
+      {
+        "name": "Искра Иванова Ангелова",
+        "role": "председател",
+        "electedBy": "ГЕРБ",
+        "value": ["2011-10-23", "2015-10-25"],
+        "sources": [
+          {
+            "name": "Постоянна комисия по местно самоуправление и нормативна уредба",
+            "url": ["https://web.archive.org/web/20150428004936/http://sofiacouncil.bg/index.php?page=perm_committees&id=38"]
+          },
+          {
+            "name": "Столичен общински съвет – общински съветници Мандат 2011 - 2015 г.",
+            "url": [
+              "https://council.sofia.bg/documents/20182/21367/%D0%9E%D0%B1%D1%89%D0%B8%D0%BD%D1%81%D0%BA%D0%B8+%D1%81%D1%8A%D0%B2%D0%B5%D1%82%D0%BD%D0%B8%D1%86%D0%B8+%D0%9C%D0%B0%D0%BD%D0%B4%D0%B0%D1%82+2011+%E2%80%93+2015+%D0%B3/7ca7a8f5-d45f-4f0d-a710-10ccd6721c3c"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Ботьо Ботев",
+        "role": "председател",
+        "electedBy": "ГЕРБ",
+        "value": ["2019-10-27", "2023-10-29"],
+        "sources": [
+          {
+            "name": "СОС избра членовете и ръководствата на постоянните комисии",
+            "url": [
+              "https://nova.bg/news/view/2024/02/09/444214/%D1%81%D0%BE%D1%81-%D0%B8%D0%B7%D0%B1%D1%80%D0%B0-%D1%87%D0%BB%D0%B5%D0%BD%D0%BE%D0%B2%D0%B5%D1%82%D0%B5-%D0%B8-%D1%80%D1%8A%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%B0%D1%82%D0%B0-%D0%BD%D0%B0-%D0%BF%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%BD%D0%B8%D1%82%D0%B5-%D0%BA%D0%BE%D0%BC%D0%B8%D1%81%D0%B8%D0%B8/"
+            ]
+          },
+          {
+            "name": "ПОСТОЯННИ КОМИСИИ НА СТОЛИЧНИЯ ОБЩИНСКИ СЪВЕТ",
+            "url": ["https://web.archive.org/web/20250321100408/https://council.sofia.bg/commissions"]
+          }
+        ]
+      },
+      {
+        "name": "Иван Митьов Виделов",
+        "role": "председател",
+        "electedBy": "БСП за България",
+        "value": ["2024-02-09", null],
+        "sources": [
+          {
+            "name": "СОС избра членовете и ръководствата на постоянните комисии",
+            "url": [
+              "https://nova.bg/news/view/2024/02/09/444214/%D1%81%D0%BE%D1%81-%D0%B8%D0%B7%D0%B1%D1%80%D0%B0-%D1%87%D0%BB%D0%B5%D0%BD%D0%BE%D0%B2%D0%B5%D1%82%D0%B5-%D0%B8-%D1%80%D1%8A%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%B0%D1%82%D0%B0-%D0%BD%D0%B0-%D0%BF%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%BD%D0%B8%D1%82%D0%B5-%D0%BA%D0%BE%D0%BC%D0%B8%D1%81%D0%B8%D0%B8/"
+            ]
+          },
+          {
+            "name": "ПОСТОЯННИ КОМИСИИ НА СТОЛИЧНИЯ ОБЩИНСКИ СЪВЕТ",
+            "url": ["https://web.archive.org/web/20250321100408/https://council.sofia.bg/commissions"]
+          },
+          {
+            "name": "СОС избра заместник-председатели и състави на постоянните комисии",
+            "url": "https://dariknews.bg/regioni/sofiia/sos-izbra-zamestnik-predsedateli-i-systavi-na-postoiannite-komisii-2376209"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Комисия по образование, култура, наука и културно многообразие",
+    "type": "commission",
+    "items": [
+      {
+        "name": "Малина Едрева Лазарова",
+        "role": "председател",
+        "electedBy": "ГЕРБ",
+        "value": ["2011-10-23", "2015-10-25"],
+        "sources": [
+          {
+            "name": "Постоянна комисия по образование, култура, наука и културно многообразие",
+            "url": ["https://web.archive.org/web/20150428004738/http://sofiacouncil.bg/index.php?page=perm_committees&id=41"]
+          },
+          {
+            "name": "Столичен общински съвет – общински съветници Мандат 2011 - 2015 г.",
+            "url": [
+              "https://council.sofia.bg/documents/20182/21367/%D0%9E%D0%B1%D1%89%D0%B8%D0%BD%D1%81%D0%BA%D0%B8+%D1%81%D1%8A%D0%B2%D0%B5%D1%82%D0%BD%D0%B8%D1%86%D0%B8+%D0%9C%D0%B0%D0%BD%D0%B4%D0%B0%D1%82+2011+%E2%80%93+2015+%D0%B3/7ca7a8f5-d45f-4f0d-a710-10ccd6721c3c"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Малина Едрева",
+        "role": "председател",
+        "electedBy": "ГЕРБ",
+        "value": ["2019-10-27", "2023-10-29"],
+        "sources": [
+          {
+            "name": "СОС избра членовете и ръководствата на постоянните комисии",
+            "url": [
+              "https://nova.bg/news/view/2024/02/09/444214/%D1%81%D0%BE%D1%81-%D0%B8%D0%B7%D0%B1%D1%80%D0%B0-%D1%87%D0%BB%D0%B5%D0%BD%D0%BE%D0%B2%D0%B5%D1%82%D0%B5-%D0%B8-%D1%80%D1%8A%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%B0%D1%82%D0%B0-%D0%BD%D0%B0-%D0%BF%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%BD%D0%B8%D1%82%D0%B5-%D0%BA%D0%BE%D0%BC%D0%B8%D1%81%D0%B8%D0%B8/"
+            ]
+          },
+          {
+            "name": "ПОСТОЯННИ КОМИСИИ НА СТОЛИЧНИЯ ОБЩИНСКИ СЪВЕТ",
+            "url": ["https://web.archive.org/web/20250321100408/https://council.sofia.bg/commissions"]
+          }
+        ]
+      },
+      {
+        "name": "Диян Величков Стаматов",
+        "role": "председател",
+        "electedBy": "ГЕРБ",
+        "value": ["2024-02-09", null],
+        "sources": [
+          {
+            "name": "СОС избра членовете и ръководствата на постоянните комисии",
+            "url": [
+              "https://nova.bg/news/view/2024/02/09/444214/%D1%81%D0%BE%D1%81-%D0%B8%D0%B7%D0%B1%D1%80%D0%B0-%D1%87%D0%BB%D0%B5%D0%BD%D0%BE%D0%B2%D0%B5%D1%82%D0%B5-%D0%B8-%D1%80%D1%8A%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%B0%D1%82%D0%B0-%D0%BD%D0%B0-%D0%BF%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%BD%D0%B8%D1%82%D0%B5-%D0%BA%D0%BE%D0%BC%D0%B8%D1%81%D0%B8%D0%B8/"
+            ]
+          },
+          {
+            "name": "ПОСТОЯННИ КОМИСИИ НА СТОЛИЧНИЯ ОБЩИНСКИ СЪВЕТ",
+            "url": ["https://web.archive.org/web/20250321100408/https://council.sofia.bg/commissions"]
+          },
+          {
+            "name": "СОС избра заместник-председатели и състави на постоянните комисии",
+            "url": "https://dariknews.bg/regioni/sofiia/sos-izbra-zamestnik-predsedateli-i-systavi-na-postoiannite-komisii-2376209"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Комисия по икономика, собственост и дигитална трансформация",
+    "meta": {
+      "mostResourceful": true
+    },
+    "type": "commission",
+    "items": [
+      {
+        "name": "Николай Асенов Стойнев",
+        "role": "председател",
+        "electedBy": "ГЕРБ",
+        "value": ["2011-10-23", "2015-10-25"],
+        "sources": [
+          {
+            "name": "Постоянна комисия по стопанска политика и общинска собственост",
+            "url": ["https://web.archive.org/web/20150427202106/http://sofiacouncil.bg/index.php?page=perm_committees&id=42"]
+          },
+          {
+            "name": "Столичен общински съвет – общински съветници Мандат 2011 - 2015 г.",
+            "url": [
+              "https://council.sofia.bg/documents/20182/21367/%D0%9E%D0%B1%D1%89%D0%B8%D0%BD%D1%81%D0%BA%D0%B8+%D1%81%D1%8A%D0%B2%D0%B5%D1%82%D0%BD%D0%B8%D1%86%D0%B8+%D0%9C%D0%B0%D0%BD%D0%B4%D0%B0%D1%82+2011+%E2%80%93+2015+%D0%B3/7ca7a8f5-d45f-4f0d-a710-10ccd6721c3c"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Николай Асенов Стойнев",
+        "role": "председател",
+        "electedBy": "ГЕРБ",
+        "value": ["2019-10-27", "2023-10-29"],
+        "sources": [
+          {
+            "name": "СОС избра членовете и ръководствата на постоянните комисии",
+            "url": [
+              "https://nova.bg/news/view/2024/02/09/444214/%D1%81%D0%BE%D1%81-%D0%B8%D0%B7%D0%B1%D1%80%D0%B0-%D1%87%D0%BB%D0%B5%D0%BD%D0%BE%D0%B2%D0%B5%D1%82%D0%B5-%D0%B8-%D1%80%D1%8A%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%B0%D1%82%D0%B0-%D0%BD%D0%B0-%D0%BF%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%BD%D0%B8%D1%82%D0%B5-%D0%BA%D0%BE%D0%BC%D0%B8%D1%81%D0%B8%D0%B8/"
+            ]
+          },
+          {
+            "name": "ПОСТОЯННИ КОМИСИИ НА СТОЛИЧНИЯ ОБЩИНСКИ СЪВЕТ",
+            "url": ["https://web.archive.org/web/20250321100408/https://council.sofia.bg/commissions"]
+          }
+        ]
+      },
+      {
+        "name": "Прошко Начев Прошков",
+        "role": "председател",
+        "electedBy": "ГЕРБ",
+        "value": ["2024-02-09", null],
+        "sources": [
+          {
+            "name": "СОС избра членовете и ръководствата на постоянните комисии",
+            "url": [
+              "https://nova.bg/news/view/2024/02/09/444214/%D1%81%D0%BE%D1%81-%D0%B8%D0%B7%D0%B1%D1%80%D0%B0-%D1%87%D0%BB%D0%B5%D0%BD%D0%BE%D0%B2%D0%B5%D1%82%D0%B5-%D0%B8-%D1%80%D1%8A%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%B0%D1%82%D0%B0-%D0%BD%D0%B0-%D0%BF%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%BD%D0%B8%D1%82%D0%B5-%D0%BA%D0%BE%D0%BC%D0%B8%D1%81%D0%B8%D0%B8/"
+            ]
+          },
+          {
+            "name": "ПОСТОЯННИ КОМИСИИ НА СТОЛИЧНИЯ ОБЩИНСКИ СЪВЕТ",
+            "url": ["https://web.archive.org/web/20250321100408/https://council.sofia.bg/commissions"]
+          },
+          {
+            "name": "СОС избра заместник-председатели и състави на постоянните комисии",
+            "url": "https://dariknews.bg/regioni/sofiia/sos-izbra-zamestnik-predsedateli-i-systavi-na-postoiannite-komisii-2376209"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Комисия по инженерна инфраструктура и енергийно планиране",
+    "meta": {
+      "mostResourceful": true
+    },
+    "type": "commission",
+    "items": [
+      {
+        "name": "Иван Илиев Илиев",
+        "role": "председател",
+        "electedBy": "ГЕРБ",
+        "value": ["2011-10-23", "2015-10-25"],
+        "sources": [
+          {
+            "name": "Постоянна комисия по инженерна инфраструктура и енергийно планиране",
+            "url": ["https://web.archive.org/web/20150427183506/http://sofiacouncil.bg/index.php?page=perm_committees&id=43"]
+          },
+          {
+            "name": "Столичен общински съвет – общински съветници Мандат 2011 - 2015 г.",
+            "url": [
+              "https://council.sofia.bg/documents/20182/21367/%D0%9E%D0%B1%D1%89%D0%B8%D0%BD%D1%81%D0%BA%D0%B8+%D1%81%D1%8A%D0%B2%D0%B5%D1%82%D0%BD%D0%B8%D1%86%D0%B8+%D0%9C%D0%B0%D0%BD%D0%B4%D0%B0%D1%82+2011+%E2%80%93+2015+%D0%B3/7ca7a8f5-d45f-4f0d-a710-10ccd6721c3c"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Прошко Начев Прошков",
+        "role": "председател",
+        "electedBy": "ГЕРБ",
+        "value": ["2019-10-27", "2023-10-29"],
+        "sources": [
+          {
+            "name": "СОС избра членовете и ръководствата на постоянните комисии",
+            "url": [
+              "https://nova.bg/news/view/2024/02/09/444214/%D1%81%D0%BE%D1%81-%D0%B8%D0%B7%D0%B1%D1%80%D0%B0-%D1%87%D0%BB%D0%B5%D0%BD%D0%BE%D0%B2%D0%B5%D1%82%D0%B5-%D0%B8-%D1%80%D1%8A%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%B0%D1%82%D0%B0-%D0%BD%D0%B0-%D0%BF%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%BD%D0%B8%D1%82%D0%B5-%D0%BA%D0%BE%D0%BC%D0%B8%D1%81%D0%B8%D0%B8/"
+            ]
+          },
+          {
+            "name": "ПОСТОЯННИ КОМИСИИ НА СТОЛИЧНИЯ ОБЩИНСКИ СЪВЕТ",
+            "url": ["https://web.archive.org/web/20250321100408/https://council.sofia.bg/commissions"]
+          }
+        ]
+      },
+      {
+        "name": "Димитър Иванов Данаилов",
+        "role": "председател",
+        "electedBy": "ИТН",
+        "value": ["2024-02-09", null],
+        "sources": [
+          {
+            "name": "СОС избра членовете и ръководствата на постоянните комисии",
+            "url": [
+              "https://nova.bg/news/view/2024/02/09/444214/%D1%81%D0%BE%D1%81-%D0%B8%D0%B7%D0%B1%D1%80%D0%B0-%D1%87%D0%BB%D0%B5%D0%BD%D0%BE%D0%B2%D0%B5%D1%82%D0%B5-%D0%B8-%D1%80%D1%8A%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%B0%D1%82%D0%B0-%D0%BD%D0%B0-%D0%BF%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%BD%D0%B8%D1%82%D0%B5-%D0%BA%D0%BE%D0%BC%D0%B8%D1%81%D0%B8%D0%B8/"
+            ]
+          },
+          {
+            "name": "ПОСТОЯННИ КОМИСИИ НА СТОЛИЧНИЯ ОБЩИНСКИ СЪВЕТ",
+            "url": ["https://web.archive.org/web/20250321100408/https://council.sofia.bg/commissions"]
+          },
+          {
+            "name": "СОС избра заместник-председатели и състави на постоянните комисии",
+            "url": "https://dariknews.bg/regioni/sofiia/sos-izbra-zamestnik-predsedateli-i-systavi-na-postoiannite-komisii-2376209"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Комисия по обществен ред и сигурност",
+    "type": "commission",
+    "items": [
+      {
+        "name": "Татяна Николова Георгиева",
+        "role": "председател",
+        "electedBy": "ГЕРБ",
+        "value": ["2011-10-23", "2015-10-25"],
+        "sources": [
+          {
+            "name": "Постоянна комисия по обществен ред и сигурност",
+            "url": ["https://web.archive.org/web/20150428004746/http://sofiacouncil.bg/index.php?page=perm_committees&id=44"]
+          },
+          {
+            "name": "Столичен общински съвет – общински съветници Мандат 2011 - 2015 г.",
+            "url": [
+              "https://council.sofia.bg/documents/20182/21367/%D0%9E%D0%B1%D1%89%D0%B8%D0%BD%D1%81%D0%BA%D0%B8+%D1%81%D1%8A%D0%B2%D0%B5%D1%82%D0%BD%D0%B8%D1%86%D0%B8+%D0%9C%D0%B0%D0%BD%D0%B4%D0%B0%D1%82+2011+%E2%80%93+2015+%D0%B3/7ca7a8f5-d45f-4f0d-a710-10ccd6721c3c"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Борислав Иванов",
+        "role": "председател",
+        "electedBy": "ГЕРБ",
+        "value": ["2019-10-27", "2023-10-29"],
+        "sources": [
+          {
+            "name": "СОС избра членовете и ръководствата на постоянните комисии",
+            "url": [
+              "https://nova.bg/news/view/2024/02/09/444214/%D1%81%D0%BE%D1%81-%D0%B8%D0%B7%D0%B1%D1%80%D0%B0-%D1%87%D0%BB%D0%B5%D0%BD%D0%BE%D0%B2%D0%B5%D1%82%D0%B5-%D0%B8-%D1%80%D1%8A%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%B0%D1%82%D0%B0-%D0%BD%D0%B0-%D0%BF%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%BD%D0%B8%D1%82%D0%B5-%D0%BA%D0%BE%D0%BC%D0%B8%D1%81%D0%B8%D0%B8/"
+            ]
+          },
+          {
+            "name": "ПОСТОЯННИ КОМИСИИ НА СТОЛИЧНИЯ ОБЩИНСКИ СЪВЕТ",
+            "url": ["https://web.archive.org/web/20250321100408/https://council.sofia.bg/commissions"]
+          }
+        ]
+      },
+      {
+        "name": "Ваня Лазарова Тагарева",
+        "role": "председател",
+        "electedBy": "ГЕРБ",
+        "value": ["2024-02-09", null],
+        "sources": [
+          {
+            "name": "СОС избра членовете и ръководствата на постоянните комисии",
+            "url": [
+              "https://nova.bg/news/view/2024/02/09/444214/%D1%81%D0%BE%D1%81-%D0%B8%D0%B7%D0%B1%D1%80%D0%B0-%D1%87%D0%BB%D0%B5%D0%BD%D0%BE%D0%B2%D0%B5%D1%82%D0%B5-%D0%B8-%D1%80%D1%8A%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%B0%D1%82%D0%B0-%D0%BD%D0%B0-%D0%BF%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%BD%D0%B8%D1%82%D0%B5-%D0%BA%D0%BE%D0%BC%D0%B8%D1%81%D0%B8%D0%B8/"
+            ]
+          },
+          {
+            "name": "ПОСТОЯННИ КОМИСИИ НА СТОЛИЧНИЯ ОБЩИНСКИ СЪВЕТ",
+            "url": ["https://web.archive.org/web/20250321100408/https://council.sofia.bg/commissions"]
+          },
+          {
+            "name": "СОС избра заместник-председатели и състави на постоянните комисии",
+            "url": "https://dariknews.bg/regioni/sofiia/sos-izbra-zamestnik-predsedateli-i-systavi-na-postoiannite-komisii-2376209"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Комисия по транспорт и пътна безопасност",
+    "meta": {
+      "mostResourceful": true
+    },
+    "type": "commission",
+    "items": [
+      {
+        "name": "Карлос Арналдо Контрера",
+        "role": "председател",
+        "electedBy": "ВМРО",
+        "value": ["2019-10-27", "2023-10-29"],
+        "sources": [
+          {
+            "name": "СОС избра членовете и ръководствата на постоянните комисии",
+            "url": [
+              "https://nova.bg/news/view/2024/02/09/444214/%D1%81%D0%BE%D1%81-%D0%B8%D0%B7%D0%B1%D1%80%D0%B0-%D1%87%D0%BB%D0%B5%D0%BD%D0%BE%D0%B2%D0%B5%D1%82%D0%B5-%D0%B8-%D1%80%D1%8A%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%B0%D1%82%D0%B0-%D0%BD%D0%B0-%D0%BF%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%BD%D0%B8%D1%82%D0%B5-%D0%BA%D0%BE%D0%BC%D0%B8%D1%81%D0%B8%D0%B8/"
+            ]
+          },
+          {
+            "name": "ПОСТОЯННИ КОМИСИИ НА СТОЛИЧНИЯ ОБЩИНСКИ СЪВЕТ",
+            "url": ["https://web.archive.org/web/20250321100408/https://council.sofia.bg/commissions"]
+          }
+        ]
+      },
+      {
+        "name": "Иван Янчов Таков",
+        "role": "председател",
+        "electedBy": "БСП за България",
+        "value": ["2024-02-09", null],
+        "sources": [
+          {
+            "name": "СОС избра членовете и ръководствата на постоянните комисии",
+            "url": [
+              "https://nova.bg/news/view/2024/02/09/444214/%D1%81%D0%BE%D1%81-%D0%B8%D0%B7%D0%B1%D1%80%D0%B0-%D1%87%D0%BB%D0%B5%D0%BD%D0%BE%D0%B2%D0%B5%D1%82%D0%B5-%D0%B8-%D1%80%D1%8A%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%B0%D1%82%D0%B0-%D0%BD%D0%B0-%D0%BF%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%BD%D0%B8%D1%82%D0%B5-%D0%BA%D0%BE%D0%BC%D0%B8%D1%81%D0%B8%D0%B8/"
+            ]
+          },
+          {
+            "name": "ПОСТОЯННИ КОМИСИИ НА СТОЛИЧНИЯ ОБЩИНСКИ СЪВЕТ",
+            "url": ["https://web.archive.org/web/20250321100408/https://council.sofia.bg/commissions"]
+          },
+          {
+            "name": "СОС избра заместник-председатели и състави на постоянните комисии",
+            "url": "https://dariknews.bg/regioni/sofiia/sos-izbra-zamestnik-predsedateli-i-systavi-na-postoiannite-komisii-2376209"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Комисия за децата, младежта и спорта",
+    "type": "commission",
+    "items": [
+      {
+        "name": "Роберт Янакиев Янакиев",
+        "role": "председател",
+        "electedBy": "ГЕРБ",
+        "value": ["2011-10-23", "2015-10-25"],
+        "sources": [
+          {
+            "name": "Постоянна комисия за децата, младежта, спорта и туризма",
+            "url": ["https://web.archive.org/web/20150428004900/http://sofiacouncil.bg/index.php?page=perm_committees&id=115"]
+          },
+          {
+            "name": "Столичен общински съвет – общински съветници Мандат 2011 - 2015 г.",
+            "url": [
+              "https://council.sofia.bg/documents/20182/21367/%D0%9E%D0%B1%D1%89%D0%B8%D0%BD%D1%81%D0%BA%D0%B8+%D1%81%D1%8A%D0%B2%D0%B5%D1%82%D0%BD%D0%B8%D1%86%D0%B8+%D0%9C%D0%B0%D0%BD%D0%B4%D0%B0%D1%82+2011+%E2%80%93+2015+%D0%B3/7ca7a8f5-d45f-4f0d-a710-10ccd6721c3c"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Татяна Николова Георгиева",
+        "role": "председател",
+        "electedBy": "ГЕРБ",
+        "value": ["2019-10-27", "2023-10-29"],
+        "sources": [
+          {
+            "name": "СОС избра членовете и ръководствата на постоянните комисии",
+            "url": [
+              "https://nova.bg/news/view/2024/02/09/444214/%D1%81%D0%BE%D1%81-%D0%B8%D0%B7%D0%B1%D1%80%D0%B0-%D1%87%D0%BB%D0%B5%D0%BD%D0%BE%D0%B2%D0%B5%D1%82%D0%B5-%D0%B8-%D1%80%D1%8A%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%B0%D1%82%D0%B0-%D0%BD%D0%B0-%D0%BF%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%BD%D0%B8%D1%82%D0%B5-%D0%BA%D0%BE%D0%BC%D0%B8%D1%81%D0%B8%D0%B8/"
+            ]
+          },
+          {
+            "name": "ПОСТОЯННИ КОМИСИИ НА СТОЛИЧНИЯ ОБЩИНСКИ СЪВЕТ",
+            "url": ["https://web.archive.org/web/20250321100408/https://council.sofia.bg/commissions"]
+          }
+        ]
+      },
+      {
+        "name": "Димитър Петров Шалъфов",
+        "role": "председател",
+        "electedBy": "ПП–ДБ (Спаси София)",
+        "value": ["2024-02-09", null],
+        "sources": [
+          {
+            "name": "СОС избра членовете и ръководствата на постоянните комисии",
+            "url": [
+              "https://nova.bg/news/view/2024/02/09/444214/%D1%81%D0%BE%D1%81-%D0%B8%D0%B7%D0%B1%D1%80%D0%B0-%D1%87%D0%BB%D0%B5%D0%BD%D0%BE%D0%B2%D0%B5%D1%82%D0%B5-%D0%B8-%D1%80%D1%8A%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%B0%D1%82%D0%B0-%D0%BD%D0%B0-%D0%BF%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%BD%D0%B8%D1%82%D0%B5-%D0%BA%D0%BE%D0%BC%D0%B8%D1%81%D0%B8%D0%B8/"
+            ]
+          },
+          {
+            "name": "ПОСТОЯННИ КОМИСИИ НА СТОЛИЧНИЯ ОБЩИНСКИ СЪВЕТ",
+            "url": ["https://web.archive.org/web/20250321100408/https://council.sofia.bg/commissions"]
+          },
+          {
+            "name": "СОС избра заместник-председатели и състави на постоянните комисии",
+            "url": "https://dariknews.bg/regioni/sofiia/sos-izbra-zamestnik-predsedateli-i-systavi-na-postoiannite-komisii-2376209"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Комисия за връзки с гражданското общество",
+    "type": "commission",
+    "items": [
+      {
+        "name": "Веселин Милев",
+        "role": "председател",
+        "electedBy": "ГЕРБ",
+        "value": ["2019-10-27", "2023-10-29"],
+        "sources": [
+          {
+            "name": "СОС избра членовете и ръководствата на постоянните комисии",
+            "url": [
+              "https://nova.bg/news/view/2024/02/09/444214/%D1%81%D0%BE%D1%81-%D0%B8%D0%B7%D0%B1%D1%80%D0%B0-%D1%87%D0%BB%D0%B5%D0%BD%D0%BE%D0%B2%D0%B5%D1%82%D0%B5-%D0%B8-%D1%80%D1%8A%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%B0%D1%82%D0%B0-%D0%BD%D0%B0-%D0%BF%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%BD%D0%B8%D1%82%D0%B5-%D0%BA%D0%BE%D0%BC%D0%B8%D1%81%D0%B8%D0%B8/"
+            ]
+          },
+          {
+            "name": "ПОСТОЯННИ КОМИСИИ НА СТОЛИЧНИЯ ОБЩИНСКИ СЪВЕТ",
+            "url": ["https://web.archive.org/web/20250321100408/https://council.sofia.bg/commissions"]
+          }
+        ]
+      },
+      {
+        "name": "Николай Вельов Велчев",
+        "role": "председател",
+        "electedBy": "БСП за България",
+        "value": ["2024-02-09", null],
+        "sources": [
+          {
+            "name": "СОС избра членовете и ръководствата на постоянните комисии",
+            "url": [
+              "https://nova.bg/news/view/2024/02/09/444214/%D1%81%D0%BE%D1%81-%D0%B8%D0%B7%D0%B1%D1%80%D0%B0-%D1%87%D0%BB%D0%B5%D0%BD%D0%BE%D0%B2%D0%B5%D1%82%D0%B5-%D0%B8-%D1%80%D1%8A%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%B0%D1%82%D0%B0-%D0%BD%D0%B0-%D0%BF%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%BD%D0%B8%D1%82%D0%B5-%D0%BA%D0%BE%D0%BC%D0%B8%D1%81%D0%B8%D0%B8/"
+            ]
+          },
+          {
+            "name": "ПОСТОЯННИ КОМИСИИ НА СТОЛИЧНИЯ ОБЩИНСКИ СЪВЕТ",
+            "url": ["https://web.archive.org/web/20250321100408/https://council.sofia.bg/commissions"]
+          },
+          {
+            "name": "СОС избра заместник-председатели и състави на постоянните комисии",
+            "url": "https://dariknews.bg/regioni/sofiia/sos-izbra-zamestnik-predsedateli-i-systavi-na-postoiannite-komisii-2376209"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Комисия по международно сътрудничество и туризъм, европейски програми и проекти",
+    "type": "commission",
+    "items": [
+      {
+        "name": "Екатерина Евлогиева Йорданова",
+        "role": "председател",
+        "electedBy": "ГЕРБ",
+        "value": ["2019-10-27", "2023-10-29"],
+        "sources": [
+          {
+            "name": "СОС избра членовете и ръководствата на постоянните комисии",
+            "url": [
+              "https://nova.bg/news/view/2024/02/09/444214/%D1%81%D0%BE%D1%81-%D0%B8%D0%B7%D0%B1%D1%80%D0%B0-%D1%87%D0%BB%D0%B5%D0%BD%D0%BE%D0%B2%D0%B5%D1%82%D0%B5-%D0%B8-%D1%80%D1%8A%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%B0%D1%82%D0%B0-%D0%BD%D0%B0-%D0%BF%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%BD%D0%B8%D1%82%D0%B5-%D0%BA%D0%BE%D0%BC%D0%B8%D1%81%D0%B8%D0%B8/"
+            ]
+          },
+          {
+            "name": "ПОСТОЯННИ КОМИСИИ НА СТОЛИЧНИЯ ОБЩИНСКИ СЪВЕТ",
+            "url": ["https://web.archive.org/web/20250321100408/https://council.sofia.bg/commissions"]
+          }
+        ]
+      },
+      {
+        "name": "Цветелина Калинова Симеонова-Заркин",
+        "role": "председател",
+        "electedBy": "ПП–ДБ (Спаси София)",
+        "value": ["2024-02-09", null],
+        "sources": [
+          {
+            "name": "СОС избра членовете и ръководствата на постоянните комисии",
+            "url": [
+              "https://nova.bg/news/view/2024/02/09/444214/%D1%81%D0%BE%D1%81-%D0%B8%D0%B7%D0%B1%D1%80%D0%B0-%D1%87%D0%BB%D0%B5%D0%BD%D0%BE%D0%B2%D0%B5%D1%82%D0%B5-%D0%B8-%D1%80%D1%8A%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%B0%D1%82%D0%B0-%D0%BD%D0%B0-%D0%BF%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%BD%D0%B8%D1%82%D0%B5-%D0%BA%D0%BE%D0%BC%D0%B8%D1%81%D0%B8%D0%B8/"
+            ]
+          },
+          {
+            "name": "ПОСТОЯННИ КОМИСИИ НА СТОЛИЧНИЯ ОБЩИНСКИ СЪВЕТ",
+            "url": ["https://web.archive.org/web/20250321100408/https://council.sofia.bg/commissions"]
+          },
+          {
+            "name": "СОС избра заместник-председатели и състави на постоянните комисии",
+            "url": "https://dariknews.bg/regioni/sofiia/sos-izbra-zamestnik-predsedateli-i-systavi-na-postoiannite-komisii-2376209"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Комисия, съгласно Закона за противодействие на корупцията",
+    "type": "commission",
+    "items": [
+      {
+        "name": "Ботьо Ботев",
+        "role": "председател",
+        "electedBy": "ГЕРБ",
+        "value": ["2019-10-27", "2023-10-29"],
+        "sources": [
+          {
+            "name": "СОС избра членовете и ръководствата на постоянните комисии",
+            "url": [
+              "https://nova.bg/news/view/2024/02/09/444214/%D1%81%D0%BE%D1%81-%D0%B8%D0%B7%D0%B1%D1%80%D0%B0-%D1%87%D0%BB%D0%B5%D0%BD%D0%BE%D0%B2%D0%B5%D1%82%D0%B5-%D0%B8-%D1%80%D1%8A%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%B0%D1%82%D0%B0-%D0%BD%D0%B0-%D0%BF%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%BD%D0%B8%D1%82%D0%B5-%D0%BA%D0%BE%D0%BC%D0%B8%D1%81%D0%B8%D0%B8/"
+            ]
+          },
+          {
+            "name": "ПОСТОЯННИ КОМИСИИ НА СТОЛИЧНИЯ ОБЩИНСКИ СЪВЕТ",
+            "url": ["https://web.archive.org/web/20250321100408/https://council.sofia.bg/commissions"]
+          }
+        ]
+      },
+      {
+        "name": "Антон Гаро Хекимян",
+        "role": "председател",
+        "electedBy": "ГЕРБ",
+        "value": ["2024-02-09", null],
+        "sources": [
+          {
+            "name": "СОС избра членовете и ръководствата на постоянните комисии",
+            "url": [
+              "https://nova.bg/news/view/2024/02/09/444214/%D1%81%D0%BE%D1%81-%D0%B8%D0%B7%D0%B1%D1%80%D0%B0-%D1%87%D0%BB%D0%B5%D0%BD%D0%BE%D0%B2%D0%B5%D1%82%D0%B5-%D0%B8-%D1%80%D1%8A%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%B0%D1%82%D0%B0-%D0%BD%D0%B0-%D0%BF%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%BD%D0%B8%D1%82%D0%B5-%D0%BA%D0%BE%D0%BC%D0%B8%D1%81%D0%B8%D0%B8/"
+            ]
+          },
+          {
+            "name": "ПОСТОЯННИ КОМИСИИ НА СТОЛИЧНИЯ ОБЩИНСКИ СЪВЕТ",
+            "url": ["https://web.archive.org/web/20250321100408/https://council.sofia.bg/commissions"]
+          },
+          {
+            "name": "СОС избра заместник-председатели и състави на постоянните комисии",
+            "url": "https://dariknews.bg/regioni/sofiia/sos-izbra-zamestnik-predsedateli-i-systavi-na-postoiannite-komisii-2376209"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Комисия, съгласно Закона за предотвратяване и установяване на конфликт на интереси",
+    "type": "commission",
+    "items": [
+      {
+        "name": "Мита Дончева Георгиева",
+        "role": "председател",
+        "electedBy": "ГЕРБ",
+        "value": ["2011-10-23", "2015-10-25"],
+        "sources": [
+          {
+            "name": "Комисия, съгласно Закона за предотвратяване и установяване на конфликт на интереси",
+            "url": ["https://web.archive.org/web/20130404013152/http://sofiacouncil.bg/index.php?page=perm_committees&id=99"]
+          },
+          {
+            "name": "Столичен общински съвет – общински съветници\nМандат 2011 - 2015 г.",
+            "url": [
+              "https://council.sofia.bg/documents/20182/21367/https://council.sofia.bg/documents/20182/21367/%D0%9E%D0%B1%D1%89%D0%B8%D0%BD%D1%81%D0%BA%D0%B8+%D1%81%D1%8A%D0%B2%D0%B5%D1%82%D0%BD%D0%B8%D1%86%D0%B8+%D0%9C%D0%B0%D0%BD%D0%B4%D0%B0%D1%82+2011+%E2%80%93+2015+%D0%B3/7ca7a8f5-d45f-4f0d-a710-10ccd6721c3c/8c945271-12c2-4464-86cc-05746845b3ce"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Комисия по етика, граждански права, молби и жалби",
+    "type": "commission",
+    "items": [
+      {
+        "name": "Анета Матева Георгиева",
+        "role": "председател",
+        "electedBy": "ГЕРБ",
+        "value": ["2011-10-23", "2015-10-25"],
+        "sources": [
+          {
+            "name": "комисия по етика, граждански права, молби и жалби",
+            "url": ["https://web.archive.org/web/20130317031115/http://sofiacouncil.bg/index.php?page=perm_committees&id=47"]
+          },
+          {
+            "name": "Столичен общински съвет – общински съветници\nМандат 2011 - 2015 г.",
+            "url": [
+              "https://council.sofia.bg/documents/20182/21367/https://council.sofia.bg/documents/20182/21367/%D0%9E%D0%B1%D1%89%D0%B8%D0%BD%D1%81%D0%BA%D0%B8+%D1%81%D1%8A%D0%B2%D0%B5%D1%82%D0%BD%D0%B8%D1%86%D0%B8+%D0%9C%D0%B0%D0%BD%D0%B4%D0%B0%D1%82+2011+%E2%80%93+2015+%D0%B3/7ca7a8f5-d45f-4f0d-a710-10ccd6721c3c/8c945271-12c2-4464-86cc-05746845b3ce"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Комисия по стопанска политика и общинска собственост",
+    "type": "commission",
+    "items": [
+      {
+        "name": "Николай Асенов Стойнев",
+        "role": "председател",
+        "electedBy": "ГЕРБ",
+        "value": ["2011-10-23", "2015-10-25"],
+        "sources": [
+          {
+            "name": "Постоянна комисия по стопанска политика и общинска собственост",
+            "url": ["https://web.archive.org/web/20130317031028/http://sofiacouncil.bg/index.php?page=perm_committees&id=42"]
+          },
+          {
+            "name": "Столичен общински съвет – общински съветници\nМандат 2011 - 2015 г.",
+            "url": [
+              "https://council.sofia.bg/documents/20182/21367/https://council.sofia.bg/documents/20182/21367/%D0%9E%D0%B1%D1%89%D0%B8%D0%BD%D1%81%D0%BA%D0%B8+%D1%81%D1%8A%D0%B2%D0%B5%D1%82%D0%BD%D0%B8%D1%86%D0%B8+%D0%9C%D0%B0%D0%BD%D0%B4%D0%B0%D1%82+2011+%E2%80%93+2015+%D0%B3/7ca7a8f5-d45f-4f0d-a710-10ccd6721c3c/8c945271-12c2-4464-86cc-05746845b3ce"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

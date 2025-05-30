@@ -1,0 +1,39 @@
+@use '../../../node_modules/bootstrap/scss/bootstrap';
+@use 'typography';
+
+* {
+  font-family: 'Sofia Sans';
+}
+
+.table tr:last-child {
+  border-bottom-width: 0;
+}
+
+.table tr:last-child td {
+  border-bottom-width: 0;
+}
+
+.markdown {
+  p {
+    margin: 0;
+  }
+
+  ol {
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+  }
+
+  li {
+    margin-bottom: 0.5em;
+  }
+}
+
+table.hover tr:hover td,
+table.hover tr.active td {
+  background-color: #f0f0f5;
+  cursor: pointer;
+}
+
+.link:hover {
+  color: #0d6efd !important;
+}
