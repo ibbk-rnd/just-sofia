@@ -226,7 +226,7 @@ export function ganttCompile2(groups: any) {
 
         let label = person.name
           .split(' ')
-          .filter((_: any, index: any) => index !== 1)
+          .filter((_: any, index: any, data: string[]) => data.length < 3 ||index !== 1)
           .join(' ');
 
         if (person.comment) {
